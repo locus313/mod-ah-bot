@@ -1,5 +1,5 @@
-UPDATE `mod_auctionhousebot` SET `minitems` = '15000' WHERE `minitems` = 250;
-UPDATE `mod_auctionhousebot` SET `maxitems` = '15000' WHERE `maxitems` = 250;
+UPDATE `mod_auctionhousebot` SET `minitems` = '12000' WHERE `minitems` = 250;
+UPDATE `mod_auctionhousebot` SET `maxitems` = '12000' WHERE `maxitems` = 250;
 UPDATE `mod_auctionhousebot` SET `maxstackgreen` = '30' WHERE `maxstackgreen` = 3;
 UPDATE `mod_auctionhousebot` SET `maxstackblue` = '20' WHERE `maxstackblue` = 2;
 UPDATE `mod_auctionhousebot` SET `maxstackpurple` = '10' WHERE `maxstackpurple` = 1;
